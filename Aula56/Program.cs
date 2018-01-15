@@ -11,14 +11,10 @@ namespace Aula56
         static void Main(string[] args)
         {
             Console.WriteLine("Olá Mundo!");
+            Console.WriteLine("Bom dia!");
 
             Console.ReadKey();
-            Console.WriteLine();
-
-
-            Console.WriteLine("Tchau Mundo!");
-
-            Console.ReadLine();
+            
         }
     }
 }
